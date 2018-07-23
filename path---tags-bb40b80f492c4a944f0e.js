@@ -1,2 +1,2 @@
-webpackJsonp([55702396619907],{516:function(t,o){t.exports={pathContext:{tags:["tech stack","colophon","about","intro","gatsby","react","javascript","css","css in js","component styling","styled-components","glamorous"]}}}});
+webpackJsonp([55702396619907],{518:function(t,o){t.exports={pathContext:{tags:["tech stack","colophon","about","intro","gatsby","react","javascript","css","css in js","component styling","styled-components","glamorous"]}}}});
 //# sourceMappingURL=path---tags-bb40b80f492c4a944f0e.js.map

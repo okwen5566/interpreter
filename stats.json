@@ -24,6 +24,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---hello-new-3": [
+      "path---hello-new-3-4db41fb5f5f54788c888.js",
+      "path---hello-new-3-4db41fb5f5f54788c888.js.map"
+    ],
     "path---tags-javascript": [
       "path---tags-javascript-7f1aab760eedfced82e2.js",
       "path---tags-javascript-7f1aab760eedfced82e2.js.map"
@@ -61,8 +65,8 @@
       "path---tags-gatsby-159f6794219b672b8fea.js.map"
     ],
     "path---index": [
-      "path---index-311f106f35b1b7a35470.js",
-      "path---index-311f106f35b1b7a35470.js.map"
+      "path---index-2fbb83a7210277a3eed7.js",
+      "path---index-2fbb83a7210277a3eed7.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-c99effe171a706232564.js",
@@ -107,9 +111,9 @@
       "path---tags-styled-components-02663b2e3a9442514ba7.js.map"
     ],
     "app": [
-      "app-5a857a323272cd1e017e.js",
+      "app-496359e2120c7b4c741a.js",
       "build-js-styles.css",
-      "app-5a857a323272cd1e017e.js.map",
+      "app-496359e2120c7b4c741a.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -129,8 +133,8 @@
       "path---tags-tech-stack-38585e8fe55538653eb8.js.map"
     ],
     "path---hello-new-2": [
-      "path---hello-new-2-780aa316ab4376e258e1.js",
-      "path---hello-new-2-780aa316ab4376e258e1.js.map"
+      "path---hello-new-2-e7bf73db574fe50d2723.js",
+      "path---hello-new-2-e7bf73db574fe50d2723.js.map"
     ],
     "path---about": [
       "path---about-1282640ea732269db69e.js",
