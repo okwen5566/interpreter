@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---videos-1": [
-      "path---videos-1-5ba976914b81061c129d.js",
-      "path---videos-1-5ba976914b81061c129d.js.map"
+      "path---videos-1-aad0da9f9911916ff0a7.js",
+      "path---videos-1-aad0da9f9911916ff0a7.js.map"
     ],
     "@dschau/particles.js": [
       "@dschau/particles.js-044bda3a24f6e96d36f1.js",
@@ -41,8 +41,8 @@
       "component---src-layouts-index-js-946abc8b5548c944931f.js.map"
     ],
     "path---videos-2": [
-      "path---videos-2-42ba748547cfebeb9879.js",
-      "path---videos-2-42ba748547cfebeb9879.js.map"
+      "path---videos-2-bdea85f2af11a98a3fb6.js",
+      "path---videos-2-bdea85f2af11a98a3fb6.js.map"
     ],
     "path---index": [
       "path---index-1e0e6a62383e31772739.js",
