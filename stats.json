@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---videos-1": [
-      "path---videos-1-3820abab5dddeece73a4.js",
-      "path---videos-1-3820abab5dddeece73a4.js.map"
+      "path---videos-1-3748e5c0e442eadf6041.js",
+      "path---videos-1-3748e5c0e442eadf6041.js.map"
     ],
     "@dschau/particles.js": [
       "@dschau/particles.js-044bda3a24f6e96d36f1.js",
@@ -40,9 +40,17 @@
       "component---src-layouts-index-js-e65dc00dd77d7767f72c.js",
       "component---src-layouts-index-js-e65dc00dd77d7767f72c.js.map"
     ],
+    "path---videos-2": [
+      "path---videos-2-2764b59df71ba970b0ef.js",
+      "path---videos-2-2764b59df71ba970b0ef.js.map"
+    ],
     "path---index": [
-      "path---index-7fd18fa2274355d5afb9.js",
-      "path---index-7fd18fa2274355d5afb9.js.map"
+      "path---index-f01136a3129e78137488.js",
+      "path---index-f01136a3129e78137488.js.map"
+    ],
+    "path---videos-3": [
+      "path---videos-3-59468bf965cc1fbd75a7.js",
+      "path---videos-3-59468bf965cc1fbd75a7.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-c967672689e28eda1499.js",
@@ -63,9 +71,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-08cde4a6a6531fc45f69.js",
+      "app-557531b2914fc1d98e80.js",
       "build-js-styles.css",
-      "app-08cde4a6a6531fc45f69.js.map",
+      "app-557531b2914fc1d98e80.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
