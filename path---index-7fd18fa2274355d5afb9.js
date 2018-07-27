@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{479:function(a,e){a.exports={data:{site:{siteMetadata:{title:"Dustin Schau - Blog",author:"Dustin Schau"}},allMarkdownRemark:{edges:[{node:{excerpt:"代码片段 LambdaSample.java     LambdaSample2.java",id:"/Users/okwen/www/gatsbyblog/content/blog/001_2018-07-27/index.md absPath of file >>> MarkdownRemark",fields:{slug:"/videos/1"},frontmatter:{date:"2018年07月27日",draft:!1,excerpt:"Lambda表达式可以达到简化语法的效果",title:"001期 Lambda表达式"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-7fd18fa2274355d5afb9.js.map
