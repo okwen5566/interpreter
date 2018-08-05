@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---videos-1": [
-      "path---videos-1-78cf7fee33741b2efe5f.js",
-      "path---videos-1-78cf7fee33741b2efe5f.js.map"
+      "path---videos-1-2bc0abcd36284c66763f.js",
+      "path---videos-1-2bc0abcd36284c66763f.js.map"
     ],
     "@dschau/particles.js": [
       "@dschau/particles.js-044bda3a24f6e96d36f1.js",
       "@dschau/particles.js-044bda3a24f6e96d36f1.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-88d13d844878e3ed8cb0.js",
-      "component---src-pages-index-js-88d13d844878e3ed8cb0.js.map"
+      "component---src-pages-index-js-18db653747ac21f12ba9.js",
+      "component---src-pages-index-js-18db653747ac21f12ba9.js.map"
     ],
     "path---videos-11": [
       "path---videos-11-6690523ac56261490d09.js",
@@ -53,8 +53,8 @@
       "component---src-layouts-index-js-e65dc00dd77d7767f72c.js.map"
     ],
     "path---videos-2": [
-      "path---videos-2-618a3773328062217e3b.js",
-      "path---videos-2-618a3773328062217e3b.js.map"
+      "path---videos-2-f034d5df06dda22b0d10.js",
+      "path---videos-2-f034d5df06dda22b0d10.js.map"
     ],
     "path---videos-10": [
       "path---videos-10-03d1ca7bb33cf51ea1a5.js",
@@ -65,8 +65,8 @@
       "path---videos-13-def94b8f5be7610d7736.js.map"
     ],
     "path---index": [
-      "path---index-a23687c8d60e01c2c90d.js",
-      "path---index-a23687c8d60e01c2c90d.js.map"
+      "path---index-905d8e3998efa79946cb.js",
+      "path---index-905d8e3998efa79946cb.js.map"
     ],
     "path---videos-3": [
       "path---videos-3-4d3d953a92d06047d901.js",
