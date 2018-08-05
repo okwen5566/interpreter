@@ -40,6 +40,10 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---videos-14": [
+      "path---videos-14-faf194f621a779d6330e.js",
+      "path---videos-14-faf194f621a779d6330e.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-58e475525c0c6a387695.js",
       "component---src-templates-blog-post-js-58e475525c0c6a387695.js.map"
@@ -61,12 +65,12 @@
       "path---videos-10-03d1ca7bb33cf51ea1a5.js.map"
     ],
     "path---videos-13": [
-      "path---videos-13-def94b8f5be7610d7736.js",
-      "path---videos-13-def94b8f5be7610d7736.js.map"
+      "path---videos-13-65d7f7a8cf5638b7c379.js",
+      "path---videos-13-65d7f7a8cf5638b7c379.js.map"
     ],
     "path---index": [
-      "path---index-905d8e3998efa79946cb.js",
-      "path---index-905d8e3998efa79946cb.js.map"
+      "path---index-4b027c08c3cfd6fd68de.js",
+      "path---index-4b027c08c3cfd6fd68de.js.map"
     ],
     "path---videos-3": [
       "path---videos-3-4d3d953a92d06047d901.js",
@@ -107,9 +111,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2b3959d6c90d6e4cb733.js",
+      "app-b045a96eba3171b9d6a7.js",
       "build-js-styles.css",
-      "app-2b3959d6c90d6e4cb733.js.map",
+      "app-b045a96eba3171b9d6a7.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
