@@ -24,6 +24,10 @@
       "component---src-templates-tags-js-de99510a04f283934cd0.js",
       "component---src-templates-tags-js-de99510a04f283934cd0.js.map"
     ],
+    "path---videos-15": [
+      "path---videos-15-fd54fbe816f8f14a8183.js",
+      "path---videos-15-fd54fbe816f8f14a8183.js.map"
+    ],
     "path---tags": [
       "path---tags-3f5a3f1d3f0f9aceaf65.js",
       "path---tags-3f5a3f1d3f0f9aceaf65.js.map"
@@ -36,13 +40,21 @@
       "webfontloader-7e2893ef542a12a5c720.js",
       "webfontloader-7e2893ef542a12a5c720.js.map"
     ],
+    "path---videos-17": [
+      "path---videos-17-d842ff76f11cf44baae8.js",
+      "path---videos-17-d842ff76f11cf44baae8.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---videos-16": [
+      "path---videos-16-d0b08f0ca8f58c027289.js",
+      "path---videos-16-d0b08f0ca8f58c027289.js.map"
+    ],
     "path---videos-14": [
-      "path---videos-14-faf194f621a779d6330e.js",
-      "path---videos-14-faf194f621a779d6330e.js.map"
+      "path---videos-14-f7960989aa3543c48f88.js",
+      "path---videos-14-f7960989aa3543c48f88.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-58e475525c0c6a387695.js",
@@ -69,8 +81,12 @@
       "path---videos-13-65d7f7a8cf5638b7c379.js.map"
     ],
     "path---index": [
-      "path---index-4b027c08c3cfd6fd68de.js",
-      "path---index-4b027c08c3cfd6fd68de.js.map"
+      "path---index-c0f13595913869c8e1c1.js",
+      "path---index-c0f13595913869c8e1c1.js.map"
+    ],
+    "path---videos-18": [
+      "path---videos-18-e6f5ababcb5686d9c673.js",
+      "path---videos-18-e6f5ababcb5686d9c673.js.map"
     ],
     "path---videos-3": [
       "path---videos-3-4d3d953a92d06047d901.js",
@@ -111,9 +127,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-b045a96eba3171b9d6a7.js",
+      "app-ac8779dcad10b7aa0d0c.js",
       "build-js-styles.css",
-      "app-b045a96eba3171b9d6a7.js.map",
+      "app-ac8779dcad10b7aa0d0c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
