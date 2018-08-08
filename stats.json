@@ -32,6 +32,14 @@
       "path---tags-3f5a3f1d3f0f9aceaf65.js",
       "path---tags-3f5a3f1d3f0f9aceaf65.js.map"
     ],
+    "path---videos-23": [
+      "path---videos-23-6d4f153b42b162c1da13.js",
+      "path---videos-23-6d4f153b42b162c1da13.js.map"
+    ],
+    "path---videos-25": [
+      "path---videos-25-751cd80cc9263a7c05c1.js",
+      "path---videos-25-751cd80cc9263a7c05c1.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -81,8 +89,8 @@
       "path---videos-13-65d7f7a8cf5638b7c379.js.map"
     ],
     "path---index": [
-      "path---index-7570f07f3be254fa61b6.js",
-      "path---index-7570f07f3be254fa61b6.js.map"
+      "path---index-8f47b3c4b90a0812665d.js",
+      "path---index-8f47b3c4b90a0812665d.js.map"
     ],
     "path---videos-18": [
       "path---videos-18-ea49a087d14577941f11.js",
@@ -130,19 +138,27 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---videos-26": [
+      "path---videos-26-c03df0347ab046d7f93b.js",
+      "path---videos-26-c03df0347ab046d7f93b.js.map"
+    ],
+    "path---videos-24": [
+      "path---videos-24-472418b3c10989875bd4.js",
+      "path---videos-24-472418b3c10989875bd4.js.map"
+    ],
     "path---videos-19": [
       "path---videos-19-2101012fde505faed645.js",
       "path---videos-19-2101012fde505faed645.js.map"
     ],
     "app": [
-      "app-99decbc632b121e4751b.js",
+      "app-00a85547d3cd6fcd13cc.js",
       "build-js-styles.css",
-      "app-99decbc632b121e4751b.js.map",
+      "app-00a85547d3cd6fcd13cc.js.map",
       "build-js-styles.css.map"
     ],
     "path---videos-22": [
-      "path---videos-22-037ec2bae97b04904fa1.js",
-      "path---videos-22-037ec2bae97b04904fa1.js.map"
+      "path---videos-22-bf0cec19ead7f6a8197a.js",
+      "path---videos-22-bf0cec19ead7f6a8197a.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
