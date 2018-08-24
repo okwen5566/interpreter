@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---videos-66": [
+      "path---videos-66-50ba0dfe950fa26511f7.js",
+      "path---videos-66-50ba0dfe950fa26511f7.js.map"
+    ],
     "path---videos-1": [
       "path---videos-1-2bc0abcd36284c66763f.js",
       "path---videos-1-2bc0abcd36284c66763f.js.map"
@@ -56,6 +60,10 @@
       "path---videos-28-d3b98363b7e2141e1deb.js",
       "path---videos-28-d3b98363b7e2141e1deb.js.map"
     ],
+    "path---videos-62": [
+      "path---videos-62-f0aa1fdf68296af1ea9b.js",
+      "path---videos-62-f0aa1fdf68296af1ea9b.js.map"
+    ],
     "path---tags": [
       "path---tags-3f5a3f1d3f0f9aceaf65.js",
       "path---tags-3f5a3f1d3f0f9aceaf65.js.map"
@@ -84,6 +92,10 @@
       "webfontloader-7e2893ef542a12a5c720.js",
       "webfontloader-7e2893ef542a12a5c720.js.map"
     ],
+    "path---videos-65": [
+      "path---videos-65-0536111aad692e9ae80a.js",
+      "path---videos-65-0536111aad692e9ae80a.js.map"
+    ],
     "path---videos-17": [
       "path---videos-17-d842ff76f11cf44baae8.js",
       "path---videos-17-d842ff76f11cf44baae8.js.map"
@@ -95,6 +107,10 @@
     "path---videos-36": [
       "path---videos-36-37e2a31a74705e6c3d5c.js",
       "path---videos-36-37e2a31a74705e6c3d5c.js.map"
+    ],
+    "path---videos-64": [
+      "path---videos-64-46af089fa05066a052b1.js",
+      "path---videos-64-46af089fa05066a052b1.js.map"
     ],
     "path---videos-45": [
       "path---videos-45-f51491d4f4b9f37a8c49.js",
@@ -156,6 +172,10 @@
       "path---videos-10-03d1ca7bb33cf51ea1a5.js",
       "path---videos-10-03d1ca7bb33cf51ea1a5.js.map"
     ],
+    "path---videos-63": [
+      "path---videos-63-37b05334656e9f1925e8.js",
+      "path---videos-63-37b05334656e9f1925e8.js.map"
+    ],
     "path---videos-39": [
       "path---videos-39-77c5238a636ef6f69380.js",
       "path---videos-39-77c5238a636ef6f69380.js.map"
@@ -169,12 +189,12 @@
       "path---videos-55-5b6835330b7bc450ffd3.js.map"
     ],
     "path---videos-60": [
-      "path---videos-60-b88690af76f5b2885855.js",
-      "path---videos-60-b88690af76f5b2885855.js.map"
+      "path---videos-60-831ea4e0d5dbd20b88c6.js",
+      "path---videos-60-831ea4e0d5dbd20b88c6.js.map"
     ],
     "path---index": [
-      "path---index-f4bea8c686035e4b0e0e.js",
-      "path---index-f4bea8c686035e4b0e0e.js.map"
+      "path---index-7061f98e41db42d6d99d.js",
+      "path---index-7061f98e41db42d6d99d.js.map"
     ],
     "path---videos-42": [
       "path---videos-42-a3bb3cba50f8c7c585b5.js",
@@ -250,6 +270,10 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---videos-61": [
+      "path---videos-61-517262919140d28b634b.js",
+      "path---videos-61-517262919140d28b634b.js.map"
+    ],
     "path---videos-26": [
       "path---videos-26-ab7c277e3fa134006ca3.js",
       "path---videos-26-ab7c277e3fa134006ca3.js.map"
@@ -279,9 +303,9 @@
       "path---videos-34-2eaa1e08fdb8e2859008.js.map"
     ],
     "app": [
-      "app-1d7be4f86e99361911a4.js",
+      "app-d8f8eb3a6ec226e2910d.js",
       "build-js-styles.css",
-      "app-1d7be4f86e99361911a4.js.map",
+      "app-d8f8eb3a6ec226e2910d.js.map",
       "build-js-styles.css.map"
     ],
     "path---videos-37": [
