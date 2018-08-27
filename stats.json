@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---videos-66": [
-      "path---videos-66-50ba0dfe950fa26511f7.js",
-      "path---videos-66-50ba0dfe950fa26511f7.js.map"
+      "path---videos-66-7d7a77f50041535bcbae.js",
+      "path---videos-66-7d7a77f50041535bcbae.js.map"
     ],
     "path---videos-1": [
       "path---videos-1-2bc0abcd36284c66763f.js",
@@ -43,6 +43,10 @@
     "path---videos-11": [
       "path---videos-11-6690523ac56261490d09.js",
       "path---videos-11-6690523ac56261490d09.js.map"
+    ],
+    "path---videos-70": [
+      "path---videos-70-2e13d69a22be86698206.js",
+      "path---videos-70-2e13d69a22be86698206.js.map"
     ],
     "path---videos-5": [
       "path---videos-5-1acfb3d648b7d35657f9.js",
@@ -112,9 +116,17 @@
       "path---videos-64-46af089fa05066a052b1.js",
       "path---videos-64-46af089fa05066a052b1.js.map"
     ],
+    "path---videos-74": [
+      "path---videos-74-1e5a9bd14b0692e8f583.js",
+      "path---videos-74-1e5a9bd14b0692e8f583.js.map"
+    ],
     "path---videos-45": [
       "path---videos-45-f51491d4f4b9f37a8c49.js",
       "path---videos-45-f51491d4f4b9f37a8c49.js.map"
+    ],
+    "path---videos-72": [
+      "path---videos-72-c6979ae544ba71dfdbb5.js",
+      "path---videos-72-c6979ae544ba71dfdbb5.js.map"
     ],
     "path---videos-33": [
       "path---videos-33-f6f39b959f3c64be55d6.js",
@@ -152,6 +164,10 @@
       "path---videos-6-ff27ee012766ca870694.js",
       "path---videos-6-ff27ee012766ca870694.js.map"
     ],
+    "path---videos-68": [
+      "path---videos-68-540c17400ee2f744ceeb.js",
+      "path---videos-68-540c17400ee2f744ceeb.js.map"
+    ],
     "path---videos-48": [
       "path---videos-48-de4caaf3121eaa539143.js",
       "path---videos-48-de4caaf3121eaa539143.js.map"
@@ -167,6 +183,10 @@
     "path---videos-2": [
       "path---videos-2-f034d5df06dda22b0d10.js",
       "path---videos-2-f034d5df06dda22b0d10.js.map"
+    ],
+    "path---videos-73": [
+      "path---videos-73-79d151c6dff024f5754f.js",
+      "path---videos-73-79d151c6dff024f5754f.js.map"
     ],
     "path---videos-10": [
       "path---videos-10-03d1ca7bb33cf51ea1a5.js",
@@ -188,13 +208,17 @@
       "path---videos-55-5b6835330b7bc450ffd3.js",
       "path---videos-55-5b6835330b7bc450ffd3.js.map"
     ],
+    "path---videos-75": [
+      "path---videos-75-c0e6bc03c080a8e79bd6.js",
+      "path---videos-75-c0e6bc03c080a8e79bd6.js.map"
+    ],
     "path---videos-60": [
       "path---videos-60-831ea4e0d5dbd20b88c6.js",
       "path---videos-60-831ea4e0d5dbd20b88c6.js.map"
     ],
     "path---index": [
-      "path---index-7061f98e41db42d6d99d.js",
-      "path---index-7061f98e41db42d6d99d.js.map"
+      "path---index-03f7e7e1656c9cdad8ac.js",
+      "path---index-03f7e7e1656c9cdad8ac.js.map"
     ],
     "path---videos-42": [
       "path---videos-42-a3bb3cba50f8c7c585b5.js",
@@ -302,15 +326,23 @@
       "path---videos-34-2eaa1e08fdb8e2859008.js",
       "path---videos-34-2eaa1e08fdb8e2859008.js.map"
     ],
+    "path---videos-71": [
+      "path---videos-71-f888d6e55b671c406c42.js",
+      "path---videos-71-f888d6e55b671c406c42.js.map"
+    ],
     "app": [
-      "app-d8f8eb3a6ec226e2910d.js",
+      "app-1ff7cded2fa21d0120e1.js",
       "build-js-styles.css",
-      "app-d8f8eb3a6ec226e2910d.js.map",
+      "app-1ff7cded2fa21d0120e1.js.map",
       "build-js-styles.css.map"
     ],
     "path---videos-37": [
       "path---videos-37-96622762588ff3d3586b.js",
       "path---videos-37-96622762588ff3d3586b.js.map"
+    ],
+    "path---videos-69": [
+      "path---videos-69-6dc928998036b1c030b1.js",
+      "path---videos-69-6dc928998036b1c030b1.js.map"
     ],
     "path---videos-22": [
       "path---videos-22-bf0cec19ead7f6a8197a.js",
@@ -323,6 +355,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---videos-67": [
+      "path---videos-67-410719d59aa02daf5512.js",
+      "path---videos-67-410719d59aa02daf5512.js.map"
     ],
     "path---videos-21": [
       "path---videos-21-d05e9a71f6fe1e045ab6.js",
