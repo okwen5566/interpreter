@@ -5,8 +5,8 @@
       "path---videos-66-7d7a77f50041535bcbae.js.map"
     ],
     "path---videos-79": [
-      "path---videos-79-fd2796c477e6c22dfd95.js",
-      "path---videos-79-fd2796c477e6c22dfd95.js.map"
+      "path---videos-79-07b2bdeda9049c50c6e7.js",
+      "path---videos-79-07b2bdeda9049c50c6e7.js.map"
     ],
     "path---videos-1": [
       "path---videos-1-2bc0abcd36284c66763f.js",
@@ -51,6 +51,10 @@
     "path---videos-70": [
       "path---videos-70-2e13d69a22be86698206.js",
       "path---videos-70-2e13d69a22be86698206.js.map"
+    ],
+    "path---videos-80": [
+      "path---videos-80-65ea70590dc2f1354a48.js",
+      "path---videos-80-65ea70590dc2f1354a48.js.map"
     ],
     "path---videos-77": [
       "path---videos-77-a56c3a2514eef47980fa.js",
@@ -233,8 +237,8 @@
       "path---videos-60-831ea4e0d5dbd20b88c6.js.map"
     ],
     "path---index": [
-      "path---index-29ff4ade4d0ef44e277e.js",
-      "path---index-29ff4ade4d0ef44e277e.js.map"
+      "path---index-d2fa5d5dada790857e2a.js",
+      "path---index-d2fa5d5dada790857e2a.js.map"
     ],
     "path---videos-42": [
       "path---videos-42-a3bb3cba50f8c7c585b5.js",
@@ -251,6 +255,10 @@
     "path---videos-41": [
       "path---videos-41-77808f422e7584cd88f3.js",
       "path---videos-41-77808f422e7584cd88f3.js.map"
+    ],
+    "path---videos-81": [
+      "path---videos-81-08af532026c90fba37ba.js",
+      "path---videos-81-08af532026c90fba37ba.js.map"
     ],
     "path---videos-56": [
       "path---videos-56-4d0eb4add38594c15a4e.js",
@@ -347,9 +355,9 @@
       "path---videos-71-f888d6e55b671c406c42.js.map"
     ],
     "app": [
-      "app-0dec90caa713860ca14f.js",
+      "app-fd7ae7e6dcda48dbca6f.js",
       "build-js-styles.css",
-      "app-0dec90caa713860ca14f.js.map",
+      "app-fd7ae7e6dcda48dbca6f.js.map",
       "build-js-styles.css.map"
     ],
     "path---videos-37": [
