@@ -224,6 +224,10 @@
       "component---src-layouts-index-js-e65dc00dd77d7767f72c.js",
       "component---src-layouts-index-js-e65dc00dd77d7767f72c.js.map"
     ],
+    "path---videos-95": [
+      "path---videos-95-f42e630ed7c350431306.js",
+      "path---videos-95-f42e630ed7c350431306.js.map"
+    ],
     "path---videos-85": [
       "path---videos-85-f8867d32b2dabfacf9f5.js",
       "path---videos-85-f8867d32b2dabfacf9f5.js.map"
@@ -269,8 +273,8 @@
       "path---videos-60-831ea4e0d5dbd20b88c6.js.map"
     ],
     "path---index": [
-      "path---index-2a3051f41a5377cc2009.js",
-      "path---index-2a3051f41a5377cc2009.js.map"
+      "path---index-63d93a634b4e317e9558.js",
+      "path---index-63d93a634b4e317e9558.js.map"
     ],
     "path---videos-42": [
       "path---videos-42-a3bb3cba50f8c7c585b5.js",
@@ -305,8 +309,8 @@
       "path---videos-3-4d3d953a92d06047d901.js.map"
     ],
     "path---videos-94": [
-      "path---videos-94-037c699ec36e15dff70b.js",
-      "path---videos-94-037c699ec36e15dff70b.js.map"
+      "path---videos-94-37d3f095f7101c4b3b70.js",
+      "path---videos-94-37d3f095f7101c4b3b70.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-c967672689e28eda1499.js",
@@ -391,14 +395,18 @@
       "path---videos-71-f888d6e55b671c406c42.js.map"
     ],
     "app": [
-      "app-d62fe725af53dd5d52dc.js",
+      "app-e652a407d28371988ab1.js",
       "build-js-styles.css",
-      "app-d62fe725af53dd5d52dc.js.map",
+      "app-e652a407d28371988ab1.js.map",
       "build-js-styles.css.map"
     ],
     "path---videos-37": [
       "path---videos-37-96622762588ff3d3586b.js",
       "path---videos-37-96622762588ff3d3586b.js.map"
+    ],
+    "path---videos-96": [
+      "path---videos-96-25f4b3c5f6fc7a537888.js",
+      "path---videos-96-25f4b3c5f6fc7a537888.js.map"
     ],
     "path---videos-69": [
       "path---videos-69-6dc928998036b1c030b1.js",
